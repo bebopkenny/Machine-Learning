@@ -22,4 +22,3 @@ while True: # we need a while loop to capture the video frame by frame
 capture.release()
 cv.destroyAllWindows()
 
-
